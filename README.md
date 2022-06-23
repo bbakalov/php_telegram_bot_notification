@@ -12,7 +12,7 @@ It's easy implementation to start sending any messages to you via Telegram Bot.
 > Save it, we will use it in env configuration section
 
 - Start bot chatting
-> Go to Telegram. Copy the name of the bot (that you set during bot creating) to the search field and start bot chatting.
+> Go to Telegram and copy the name of the bot (that you set during bot creating) to the search field and start bot chatting.
 > 
 > Write anything to the bot
 
