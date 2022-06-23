@@ -1,5 +1,5 @@
-# Telegram Notification
-It's easy implementation to start sending any messages to you via Telegram Bot.
+# [PHP] Telegram Notification
+It's easy PHP implementation to start sending any messages to you via Telegram Bot.
 
 ## Setup guide
 ### Create bot in Telegram and get **CHAT_ID** & **ACCESS_TOKEN**
