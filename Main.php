@@ -8,7 +8,6 @@ date_default_timezone_set("Europe/Kiev");
 
 class Main
 {
-    //GET it by query: https://api.telegram.org/bot830094853:AAGgUWRVkp6FozjrCS2bAd5d1m_a3pCIKhE/getUpdates
     /**
      * @var string[]
      */
